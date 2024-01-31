@@ -21,15 +21,15 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94772108460", "+94772108460"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94772108460"];
-global.OwnerName = "KUSHAN";
-global.BotName = "DARK SHAM";
-global.packname = "🦋 DARK SHAN 🦋";                             //Do not change.
-global.author = "KUSHAN";                               //Do not change.
+global.Owner = ["+94775341543"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94775341543"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+94775341543"];
+global.OwnerName = "SOUL KILLER";
+global.BotName = "SOUL KILLER";
+global.packname = "🦋 SOUL KILLER 🦋";                             //Do not change.
+global.author = "SOUL KILLER";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.SupportGroupLink = "https://chat.whatsapp.com/D4eytSR8uFxG1DkOpnlFyP";
 
 
 //
@@ -45,8 +45,8 @@ global.location = "mathara, Sri Lankan";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
-global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "kushan";
+global.websitex = "https://github.com/SOUL-KILLER/CYBER-PANDA-MD.V.0.4";
+global.lolhuman = "SOUL KILLER";
 
 
 //
@@ -81,7 +81,7 @@ global.ntilink = []
 global.mess = {
   jobdone: 'Here you go...',
   useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-  botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
+  botadmin: 'Sorry, i cant execute this command without being an *Admin* of this grouphttps://chat.whatsapp.com/D4eytSR8uFxG1DkOpnlFyP.',
   botowner: 'Only my *Owner* can use this command, Baka!',
   grouponly: 'This command is only made for *Groups*, Baka!',
   privateonly: 'This command is only made for *Private Chat*, Baka!',
