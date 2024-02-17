@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94775341543"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94775341543"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.Owner = ["+94775341543"];         //If you want singal number so global.Owner = ['94775341543'] Change into your number.
+global.OwnerNumber = ["+94775341543"];   //If you want singal number so global.Owner = ['94775341543'] Change into your number.
 global.ownertag = ["+94775341543"];
-global.OwnerName = "SOUL KILLER";
-global.BotName = "SOUL KILLER";
-global.packname = "🦋 SOUL KILLER 🦋";                             //Do not change.
-global.author = "SOUL KILLER";                               //Do not change.
+global.OwnerName = "𝙲𝚈𝙱𝙴𝚁_𝙰𝚈𝙴𝚂𝙷";
+global.BotName = "𝙲𝚈𝙱𝙴𝚁_𝙰𝚈𝙴𝚂𝙷";
+global.packname = "🦋 𝙲𝚈𝙱𝙴𝚁_𝙰𝚈𝙴𝚂𝙷 🦋";                             //Do not change.
+global.author = "𝙲𝚈𝙱𝙴𝚁_𝙰𝚈𝙴𝚂𝙷";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/D4eytSR8uFxG1DkOpnlFyP";
 
@@ -46,14 +46,14 @@ global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/SOUL-KILLER/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "SOUL KILLER";
+global.lolhuman = "𝙲𝚈𝙱𝙴𝚁_𝙰𝚈𝙴𝚂𝙷";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
-global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
+global.BotLogo = fs.readFileSync("https://telegra.ph/file/f965559c82b060b6ced72.jpg");
+global.Thumb = fs.readFileSync("https://telegra.ph/file/f965559c82b060b6ced72.jpg");
+global.Thumb1 = fs.readFileSync("https://telegra.ph/file/f965559c82b060b6ced72.jpg");
+global.ErrorPic = fs.readFileSync("https://telegra.ph/file/f965559c82b060b6ced72.jpg");
 
 
 //
